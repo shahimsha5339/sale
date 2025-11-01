@@ -10,7 +10,7 @@ public class SaleService {
 	}
 
 	public int multiply(int x,int y, int z) {
-		return x * y * z;
+		return x * y;
 
 	}
 
