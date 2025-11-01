@@ -14,7 +14,7 @@ public class SaleController {
 
 	@GetMapping("/getmessage")
 	public String getMessage(String message) {
-		int x = service.add(143, 2);
+		int x = service.multiply(143, 2);
 		return "successfully sale the device with price " + x;
 	}
 
