@@ -9,8 +9,13 @@ public class SaleService {
 		return x+y;
 	}
 	
+<<<<<<< HEAD
 	public int multiply( int y,int z) {
 		return y*z;
+=======
+	public int multiply(int x, int y) {
+		return x*y;
+>>>>>>> f642e53d06bff8d08be14f77590f3338e15bce36
 	}
 
 }
