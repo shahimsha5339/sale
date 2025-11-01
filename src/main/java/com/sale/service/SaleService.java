@@ -9,7 +9,7 @@ public class SaleService {
 		return x + y;
 	}
 
-	public int multiply(int x,int y, int z) {
+	public int multiply(int x, int y) {
 		return x * y;
 
 	}
